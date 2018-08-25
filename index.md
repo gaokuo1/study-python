@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 好好学习，天天向上
 
 You can use the [editor on GitHub](https://github.com/gaokuo1/study-python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
